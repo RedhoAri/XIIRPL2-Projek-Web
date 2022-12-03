@@ -1,29 +1,31 @@
 XIIRPL2-Projek-Web
 XIIRPL2A
 K1: 90
-  RAHMAWATY 80
-  NIKY    80
-  DWI M   80
+ - (k) DWI M     80
+ - 1. RAHMAWATY  80
+ - 2. NIKY       80
+  
 K2: 95
-  GHIZKA 85
-  FADILA 90
-  AFRILIA 90
+ - (K) FADILA    90
+ - 1. GHIZKA     85
+ - 2. AFRILIA    90
 K3:
-  ALDI
-  HAFIS 90
-  IHSAN
+ - (K) HAFIS     90
+ - 1. ALDI       80
+ - 2. IHSAN
 K4:  90
-  XENIA 80
-  DEVI  80
-  KHAIRANI  85
+ - (K) DEVI      80
+ - 1. XENIA      80
+ - 2. KHAIRANI   85
 K5:
-  NAYLA 
-  CINDY 90
-  ADAM
+ - (k) ADAM
+ - 1. NAYLA 
+ - 2. CINDY      90
+ 
 K6: 90
-  HAIRUNISA 80
-  RISKA 80
-  AURA 85
+ - (k) RISKA     80
+ - 1. HAIRUNISA  80
+ - 2. AURA       85
 
 XIIRPL2B
 K1:
